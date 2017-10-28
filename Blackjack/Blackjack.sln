@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackjackGUI", "Blackjack\BlackjackGUI.csproj", "{80D12059-8740-4C85-A222-68F9BC415CC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Card", "Card\Card.csproj", "{B97C25CD-13F2-4780-A968-3B4AA6158B6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "Player\Player.csproj", "{3347CBE7-2C9E-4BE9-B8B5-D1F530DB3370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "Resources\Resources.csproj", "{540C83C0-052C-4C88-AF88-BC72EFA4E5F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80D12059-8740-4C85-A222-68F9BC415CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D12059-8740-4C85-A222-68F9BC415CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D12059-8740-4C85-A222-68F9BC415CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D12059-8740-4C85-A222-68F9BC415CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B97C25CD-13F2-4780-A968-3B4AA6158B6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97C25CD-13F2-4780-A968-3B4AA6158B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97C25CD-13F2-4780-A968-3B4AA6158B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97C25CD-13F2-4780-A968-3B4AA6158B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3347CBE7-2C9E-4BE9-B8B5-D1F530DB3370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3347CBE7-2C9E-4BE9-B8B5-D1F530DB3370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3347CBE7-2C9E-4BE9-B8B5-D1F530DB3370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3347CBE7-2C9E-4BE9-B8B5-D1F530DB3370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540C83C0-052C-4C88-AF88-BC72EFA4E5F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540C83C0-052C-4C88-AF88-BC72EFA4E5F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540C83C0-052C-4C88-AF88-BC72EFA4E5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540C83C0-052C-4C88-AF88-BC72EFA4E5F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F543F47-858A-41B1-8F8A-17ED7BE6614A}
+	EndGlobalSection
+EndGlobal
